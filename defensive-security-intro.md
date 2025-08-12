@@ -1,4 +1,4 @@
-# 🛡️ TryHackMe Write-up — Defensive Security Intro
+# 🛡️ TryHackMe Room — Defensive Security Intro
 
 **Date Completed:** 2025-08-12  
 **Difficulty:** Easy  
