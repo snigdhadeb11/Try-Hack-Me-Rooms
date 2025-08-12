@@ -3,7 +3,7 @@
 **Date Completed:** 2025-08-12  
 **Difficulty:** Easy  
 **Category:** Cybersecurity Fundamentals / Web Exploitation  
-**Room Link:** [Offensive Security](https://tryhackme.com/room/offensivesecurity)
+**Room Link:** [Offensive Security]([https://tryhackme.com/room/offensivesecurity](https://tryhackme.com/room/offensivesecurityintrokK))
 
 ---
 
@@ -57,17 +57,5 @@ Visiting `/bank-deposit` allowed us to add `$2000` to our account **8881**. Afte
 ---
 
 ## 🖼️ Screenshots
-*(Optional: Add proof images here)*  
-Example:  
-`![FakeBank Interface](assets/offensive-security-fakebank.png)`
+<img width="1904" height="873" alt="image" src="https://github.com/user-attachments/assets/2a7a7c19-4027-41ef-b13a-ba395ef5098d" />
 
----
-
-## 🔗 References
-- [dirb Documentation](https://tools.kali.org/web-applications/dirb)
-- [TryHackMe — Offensive Security](https://tryhackme.com/room/offensivesecurity)
-
----
-
-## 🏷️ Tags
-#offensive-security #web-exploitation #dirb #beginner #easy
