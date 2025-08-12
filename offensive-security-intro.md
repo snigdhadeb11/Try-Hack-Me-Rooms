@@ -1,4 +1,4 @@
-# 🛡️ TryHackMe Write-up — Offensive Security
+# 🛡️ TryHackMe Room — Offensive Security Intro 
 
 **Date Completed:** 2025-08-12  
 **Difficulty:** Easy  
